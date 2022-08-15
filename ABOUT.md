@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-merlot
 layout: page
 title: "About Me"
 permalink: /about
