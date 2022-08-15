@@ -51,3 +51,5 @@ My name is Ngoc Anh Ngo (b. 1996) and I am a Czech-born Vietnamese **economist**
 - coordinator of meta-evaluation (summary of evaluations conducted by other evaluation units
 - coordinator of national and international communication activities (publications, events, exhibitions, competitions)
 - deputy project manager (OP Technical Assistance)
+
+
