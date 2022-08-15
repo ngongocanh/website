@@ -1,10 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/ngongocanh/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-hello world
+My name is Ngoc Anh Ngo. I am a Junior Researcher at the Czech National Bank and a third-year PhD student at the [Technical University of Ostrava](https://www.vsb.cz/personCards/personCard.jsp?lang=cs&person=NGO0008). My research is mainly in the areas of financial stability, non-bank financial intermediation and applied macroeconomics. 
 
 ### Markdown
 
