@@ -1,3 +1,6 @@
+layout: page
+title: "PAGE TITLE"
+
 ## Welcome to my website
 
 My name is Ngoc Anh Ngo (b. 1996) and I am a Czech-born Vietnamese economist. Growing up in a bilingual environment, I am passionate about building bridges between different spheres. In education, I have experienced Danish, British and Czech approaches, always aiming at taking the best of all worlds. I have worked in both public and private sectors, utilising my skills to be a valuable team member.
