@@ -1,3 +1,7 @@
+layout: page
+title: "About Me"
+permalink: /about
+
 ## About Me
 
 My name is Ngoc Anh Ngo (b. 1996) and I am a Czech-born Vietnamese **economist**. 
